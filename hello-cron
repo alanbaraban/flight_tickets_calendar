@@ -1,0 +1,2 @@
+# 0 0 * * * curl -X POST "http://myproj_api:5057/cron_update_tickets/" -H "accept: application/json" > /proc/1/fd/1 2>/proc/1/fd/2
+*/5 * * * *  curl -X POST "http://myproj_api:5057/cron_update_tickets/" -H "accept: application/json" > /proc/1/fd/1 2>/proc/1/fd/2

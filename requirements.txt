@@ -1,0 +1,7 @@
+pydantic
+fastapi
+python-dateutil
+requests
+psycopg2
+uvicorn
+sqlalchemy

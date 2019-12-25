@@ -1,0 +1,10 @@
+README.rst
+setup.cfg
+setup.py
+BaseModel/BaseModel.py
+BaseModel/__init__.py
+BaseModel.egg-info/PKG-INFO
+BaseModel.egg-info/SOURCES.txt
+BaseModel.egg-info/dependency_links.txt
+BaseModel.egg-info/requires.txt
+BaseModel.egg-info/top_level.txt

@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6cd7830a-6de7-4f8b-967c-6f57a821c8fe" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VMorBKLyhmYWlsTmZA7MPQLTCO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/testfiles/socium/stm-complaint-identifier" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docker" />
+      <recent name="$PROJECT_DIR$/web" />
+      <recent name="$PROJECT_DIR$/cron" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/app" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.kiwi">
+    <configuration name="crud" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="aviata" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/app" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crud.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="kiwi" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="aviata" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kiwi.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="aviata" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/app" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.kiwi" />
+        <item itemvalue="Python.main_2" />
+        <item itemvalue="Python.crud" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6cd7830a-6de7-4f8b-967c-6f57a821c8fe" name="Default" comment="" />
+      <created>1576910305943</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576910305943</updated>
+      <workItem from="1577072522866" duration="27601000" />
+      <workItem from="1577105760435" duration="31863000" />
+      <workItem from="1577267866086" duration="12930000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2475" y="241" width="800" height="647" key="#SQL_Dialects" timestamp="1577072766634">
+      <screen x="1920" y="24" width="1920" height="1056" />
+    </state>
+    <state x="2475" y="241" width="800" height="647" key="#SQL_Dialects/0.24.1920.1056/1920.24.1920.1056@1920.24.1920.1056" timestamp="1577072766634" />
+    <state x="2573" y="469" width="644" height="360" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577184552440">
+      <screen x="1920" y="24" width="1920" height="1056" />
+    </state>
+    <state x="2573" y="469" width="644" height="360" key="#com.intellij.fileTypes.FileTypeChooser/0.24.1920.1056/1920.24.1920.1056@1920.24.1920.1056" timestamp="1577184552440" />
+    <state x="2657" y="491" width="498" height="454" key="FileChooserDialogImpl" timestamp="1577186420310">
+      <screen x="1920" y="24" width="1920" height="1056" />
+    </state>
+    <state x="2657" y="491" width="498" height="454" key="FileChooserDialogImpl/0.24.1920.1056/1920.24.1920.1056@1920.24.1920.1056" timestamp="1577186420310" />
+    <state width="1874" height="389" key="GridCell.Tab.0.bottom" timestamp="1577269898800">
+      <screen x="1920" y="24" width="1920" height="1056" />
+    </state>
+    <state width="1874" height="389" key="GridCell.Tab.0.bottom/0.24.1920.1056/1920.24.1920.1056@1920.24.1920.1056" timestamp="1577269898800" />
+    <state width="1874" height="389" key="GridCell.Tab.0.center" timestamp="1577269898800">
+      <screen x="1920" y="24" width="1920" height="1056" />
+    </state>
+    <state width="1874" height="389" key="GridCell.Tab.0.center/0.24.1920.1056/1920.24.1920.1056@1920.24.1920.1056" timestamp="1577269898800" />
+    <state width="1874" height="389" key="GridCell.Tab.0.left" timestamp="1577269898800">
+      <screen x="1920" y="24" width="1920" height="1056" />
+    </state>
+    <state width="1874" height="389" key="GridCell.Tab.0.left/0.24.1920.1056/1920.24.1920.1056@1920.24.1920.1056" timestamp="1577269898800" />
+    <state width="1874" height="389" key="GridCell.Tab.0.right" timestamp="1577269898800">
+      <screen x="1920" y="24" width="1920" height="1056" />
+    </state>
+    <state width="1874" height="389" key="GridCell.Tab.0.right/0.24.1920.1056/1920.24.1920.1056@1920.24.1920.1056" timestamp="1577269898800" />
+    <state width="1874" height="389" key="GridCell.Tab.1.bottom" timestamp="1577269898800">
+      <screen x="1920" y="24" width="1920" height="1056" />
+    </state>
+    <state width="1874" height="389" key="GridCell.Tab.1.bottom/0.24.1920.1056/1920.24.1920.1056@1920.24.1920.1056" timestamp="1577269898800" />
+    <state width="1874" height="389" key="GridCell.Tab.1.center" timestamp="1577269898800">
+      <screen x="1920" y="24" width="1920" height="1056" />
+    </state>
+    <state width="1874" height="389" key="GridCell.Tab.1.center/0.24.1920.1056/1920.24.1920.1056@1920.24.1920.1056" timestamp="1577269898800" />
+    <state width="1874" height="389" key="GridCell.Tab.1.left" timestamp="1577269898800">
+      <screen x="1920" y="24" width="1920" height="1056" />
+    </state>
+    <state width="1874" height="389" key="GridCell.Tab.1.left/0.24.1920.1056/1920.24.1920.1056@1920.24.1920.1056" timestamp="1577269898800" />
+    <state width="1874" height="389" key="GridCell.Tab.1.right" timestamp="1577269898800">
+      <screen x="1920" y="24" width="1920" height="1056" />
+    </state>
+    <state width="1874" height="389" key="GridCell.Tab.1.right/0.24.1920.1056/1920.24.1920.1056@1920.24.1920.1056" timestamp="1577269898800" />
+    <state x="2463" y="326" width="824" height="478" key="IDE.errors.dialog" timestamp="1577277380156">
+      <screen x="1920" y="24" width="1920" height="1056" />
+    </state>
+    <state x="2463" y="326" width="824" height="478" key="IDE.errors.dialog/0.24.1920.1056/1920.24.1920.1056@1920.24.1920.1056" timestamp="1577277380156" />
+    <state x="2369" y="327" key="SettingsEditor" timestamp="1577105804349">
+      <screen x="1920" y="24" width="1920" height="1056" />
+    </state>
+    <state x="2369" y="327" key="SettingsEditor/0.24.1920.1056/1920.24.1920.1056@1920.24.1920.1056" timestamp="1577105804349" />
+    <state width="960" height="540" key="XDebugger.FullValuePopup" timestamp="1577268944749">
+      <screen x="1920" y="24" width="1920" height="1056" />
+    </state>
+    <state width="960" height="540" key="XDebugger.FullValuePopup/0.24.1920.1056/1920.24.1920.1056@1920.24.1920.1056" timestamp="1577268944749" />
+    <state x="2532" y="288" width="696" height="528" key="find.popup" timestamp="1577102174819">
+      <screen x="1920" y="24" width="1920" height="1056" />
+    </state>
+    <state x="2532" y="288" width="696" height="528" key="find.popup/0.24.1920.1056/1920.24.1920.1056@1920.24.1920.1056" timestamp="1577102174819" />
+    <state x="2543" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1577170446664">
+      <screen x="1920" y="24" width="1920" height="1056" />
+    </state>
+    <state x="2543" y="257" width="672" height="678" key="search.everywhere.popup/0.24.1920.1056/1920.24.1920.1056@1920.24.1920.1056" timestamp="1577170446664" />
+    <state x="2605" y="550" width="530" height="136" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1577281413905">
+      <screen x="1920" y="24" width="1920" height="1056" />
+    </state>
+    <state x="2605" y="550" width="530" height="136" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.24.1920.1056/1920.24.1920.1056@1920.24.1920.1056" timestamp="1577281413905" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kiwi.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kiwi.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kiwi.py</url>
+          <line>73</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/aviata$crud.coverage" NAME="crud Coverage Results" MODIFIED="1577102020475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
+    <SUITE FILE_PATH="coverage/aviata$kiwi.coverage" NAME="kiwi Coverage Results" MODIFIED="1577269883125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/aviata$main_2.coverage" NAME="main_2 Coverage Results" MODIFIED="1577106330139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
+  </component>
+</project>

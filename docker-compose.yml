@@ -1,0 +1,28 @@
+version: '3'
+services:
+  db:
+    image: "postgres:11"
+    container_name: "my_postgres"
+    ports:
+      - "54320:5432"
+    volumes:
+      - ./init.sql:/docker-entrypoint-initdb.d/init.sql
+  cron:
+    build:
+      context: .
+      dockerfile: ./docker/cron/Dockerfile
+#      - my_dbdata:/var/lib/postgresql/data
+    depends_on:
+      - db
+      - myproj_api
+  myproj_api:
+    build:
+      context: .
+      dockerfile: ./docker/web/Dockerfile
+    command: sh -c "chmod +x proj/run.sh && cd proj && ./run.sh"
+    ports:
+      - "5057:5057"
+    depends_on:
+      - db
+    links:
+      - db
