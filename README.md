@@ -18,6 +18,8 @@ wait until you see 'myproj_api_1  | INFO:     Application startup complete.'
 
 All requests can be found on http://localhost:5057/docs
 
+DB: postgresql://localhost:54320/docker_db
+
 The input date format should be: Y-M-D (2019-12-17)
 
 For demonstration purposes the cron runs every 5 minutes (updates the data);
