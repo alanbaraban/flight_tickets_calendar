@@ -2,8 +2,8 @@ from datetime import datetime
 
 from sqlalchemy.orm import Session
 
-import schemas
 import models
+import schemas
 
 
 def get_ticket_by_id(db: Session, ticket_id: int):
@@ -33,7 +33,9 @@ def upsert_ticket(db: Session, ticket: schemas.FlightWrite):
 
     if not queried_ticket:
 
-        queried_ticket = models.FlightTickets(price=ticket.price, fly_from=ticket.fly_from, fly_to=ticket.fly_to,
+        queried_ticket = models.FlightTickets(price=ticket.price,
+                                              fly_from=ticket.fly_from,
+                                              fly_to=ticket.fly_to,
                                               booking_token=ticket.booking_token,
                                               dep_date=ticket.dep_date)
     else:

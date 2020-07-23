@@ -5,3 +5,4 @@ requests
 psycopg2
 uvicorn
 sqlalchemy
+flake8
